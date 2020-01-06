@@ -1,0 +1,24 @@
+{
+  "name": "@ckrnstck/j1nnp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/ckrnstck/j1nnp",
+  "author": {
+    "name": "Christian Kernstock",
+    "email": "c.kernstock@me.com",
+    "url": "https://ckrnstck.dev"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "jimp": "^0.9.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  },
+  "dependencies": {
+    "jimp": "^0.9.3"
+  }
+}
